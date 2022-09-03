@@ -23,6 +23,10 @@
 			"markup",
 			"csharp"
 		],
+		"astro": [
+			"markup",
+			"typescript"
+		],
 		"birb": "clike",
 		"bison": "c",
 		"c": "clike",
